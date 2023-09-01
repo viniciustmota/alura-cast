@@ -32,7 +32,6 @@
   grid-template-columns: repeat(auto-fit, minmax(var(--minimo), 1fr));
 }
 
-
 .secao-horizontal .secao__cartoes {
   --quantidade-maxima-de-colunas: 3;
   --min-largura-maxima-da-coluna: 348px;
