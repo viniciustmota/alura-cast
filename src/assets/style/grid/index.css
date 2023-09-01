@@ -2,6 +2,7 @@
 @import url(secao.css);
 @import url(menu.css);
 @import url(navbar.css);
+@import url(rodape.css);
 
 body{
     display: grid;
